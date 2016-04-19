@@ -1,0 +1,13 @@
+{
+  "name": "sails-mock",
+  "version": "0.0.1",
+  "description": "get start with sails",
+  "main": "index.js",
+  "repository": {
+    "url": "git+https://github.com/kaketsu/sails-mock.git"
+  },
+  "author": "huajie",
+  "devDependencies": {
+    "sails": "^0.12.3"
+  }
+}
